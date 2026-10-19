@@ -1,4 +1,3 @@
-
 abstract class Veiculo {
     protected String modelo;
 
